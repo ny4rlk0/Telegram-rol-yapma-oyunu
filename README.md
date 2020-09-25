@@ -4,4 +4,4 @@
  Peşine rollerinizi /rol ISTENENROL olarak yazarsınız.
  En son /roller komutuyla kimin ne oldugu gorulur.
  Admin oyunu /reset ile sıfırlar.
- Komutlar "/oyna, /rol ROLADI, /roller, /reset"
+ Komutlar "/oyna, /rol ROLADI, /roller, /reset, /yardim"
