@@ -60,7 +60,7 @@ def handle(msg):
         conn.commit()
         bot.sendMessage(chatid,"Oyun sıfırlandı.")
     
-    if text=="/yardim" or text=="/help" and userid in ADMINS:
+    if text=="/yardim" or text=="/help":
         bot.sendMessage(chatid,"Komutlar /oyna, /rol ROLADI, /roller, /reset")
         bot.sendMessage(chatid,"Her oyun başında oyuna katılmak istiyenler /oyna yazar.")
         bot.sendMessage(chatid,"Peşine rollerinizi /rol ISTENENROL olarak yazarsınız.")
