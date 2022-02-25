@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #coding=utf-8
-#FUCK OFF SQL INJECTION
-#Also A Nyarlko creation.
+#https://github.com/ny4rlk0/Telegram-rol-yapma-oyunu/
 import telepot,telepot.loop,telepot.namedtuple
 import sqlite3,threading,os,time,pprint,random,validators,base64,json,subprocess
 import configparser as c
